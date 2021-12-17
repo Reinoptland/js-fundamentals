@@ -27,7 +27,7 @@ function calculate(num1, operation, num2) {
       return divide(num1, num2);
 
     default:
-      break;
+      return NaN;
   }
 }
 

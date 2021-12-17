@@ -1,0 +1,14 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "A series of exercises to practice basic JavaScript",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Rein Op 't Land",
+  "license": "See LICENSE.md",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5"
+  }
+}

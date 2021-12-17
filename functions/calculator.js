@@ -11,7 +11,9 @@ function multiply(num1, num2) {
   return num1 * num2;
 }
 
-function divide() {}
+function divide(num1, num2) {
+  return num1 / num2;
+}
 
 module.exports = {
   add,

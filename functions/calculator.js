@@ -15,7 +15,21 @@ function divide(num1, num2) {
   return num1 / num2;
 }
 
-function calculate(num1, operation, num2) {}
+function calculate(num1, operation, num2) {
+  switch (operation) {
+    case "+":
+      return add(num1, num2);
+    case "-":
+      return subtract(num1, num2);
+    case "*":
+      return multiply(num1, num2);
+    case "/":
+      return divide(num1, num2);
+
+    default:
+      break;
+  }
+}
 
 module.exports = {
   add,

@@ -7,6 +7,8 @@ To know what each exercise is about and when you've completed it succesfully, th
 
 ## How to use this repo
 
+### ![Watch this video with the steps](https://share.getcloudapp.com/5zun8lAx)
+
 1. Clone the repo
 
 ```bash

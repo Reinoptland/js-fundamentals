@@ -7,7 +7,7 @@ To know what each exercise is about and when you've completed it succesfully, th
 
 ## How to use this repo
 
-### [Watch this video with the steps](https://share.getcloudapp.com/5zun8lAx)
+https://user-images.githubusercontent.com/20372832/146684391-d443b337-759a-4027-8da4-b7c50bd7b642.mp4
 
 1. Clone the repo
 

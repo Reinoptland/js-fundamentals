@@ -30,6 +30,10 @@ npm test -- calculator
 
 ## How to get feedback
 
+
+https://user-images.githubusercontent.com/20372832/146684863-32d5f147-5778-49d9-866a-08b220c508fe.mp4
+
+
 1. Create a new branch on your computer
 
 ```bash

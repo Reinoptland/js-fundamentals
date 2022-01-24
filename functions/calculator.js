@@ -16,12 +16,23 @@ divide = (num1,num2) =>{
   return total;
 }
 calculate = (num1,opp,num2) =>{
-  if(opp === '+' || opp === '-' || opp === '/' || opp === '*'){
-    const total =  eval(num1 + opp + num2);
-    return total;
-  }else{
-    return NaN;
-  }
+
+  switch(opp) {
+    case '+':
+      return add(num1,num2);
+      break;
+    case '-':
+      return subtract(num1,num2);
+      break;
+    case '*':
+      return multiply(num1,num2);
+      break;
+    case '/':
+      return divide(num1,num2);
+      break;
+    default:
+      return NaN;
+  } 
 }
 
 
